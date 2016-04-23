@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoIntents</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_otra_actividad">OtraActividad</string>
+</resources>
